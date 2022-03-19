@@ -1,0 +1,7 @@
+{
+    "python.formatting.provider": "black",
+    "python.autoComplete.extraPaths": [
+        "~/.local/share/virtualenvs/notes-ZEc4E2RT",
+        "~/.local/share/virtualenvs/notes-ZEc4E2RT/lib/"
+    ]
+}
